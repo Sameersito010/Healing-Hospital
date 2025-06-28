@@ -42,9 +42,8 @@ This project demonstrates how **structured queries can heal operational blind sp
 
 ### 📂 Project Structure
 📁 Healing_Hospitals_SQL/
-├── 📄 Project_Hospital_assignment.pdf
-├── 🧾 Hospital_Queries.sql
-└── 📝 README.md
+├── 📄 Project_Hospital_assignment.pdf <a href="https://github.com/Sameersito010/Healing-Hospital/blob/main/Project_Hospital%20assignment.pdf">pdf</a>
+└── 📝 README.md <a href="https://github.com/Sameersito010/Healing-Hospital/blob/main/README.md"> ReadMe</a>
 
 ### 🔗 Connect with Me
 
