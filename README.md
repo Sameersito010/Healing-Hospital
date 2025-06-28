@@ -33,14 +33,12 @@ This project demonstrates how **structured queries can heal operational blind sp
 | 8        | Average stay duration per department       |
 | 10       | Monthly medical expenses summary           |
 
----
 
 ### 🧾 Technologies Used
 
 * **SQL** (PostgreSQL)
 * Basic use of date/time and aggregation functions
 
----
 
 ### 📂 Project Structure
 📁 Healing_Hospitals_SQL/
